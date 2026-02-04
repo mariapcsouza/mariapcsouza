@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=25&pause=1000&color=F72487&width=435&lines=Oi%2C+maria+aqui!)](https://git.io/typing-svg)
 
-👩🏻‍💻 Sempre tive interesse pelo universo da Matemática e a curiosidade sobre Estatística me fez hoje ser graduanda de **Ciência de Dados** na UFMG. Sou Diretora de Gente e Gestão da empresa Pi Júnior. Tenho interesse em Probabilidade, e tenho me aprofundado em modelos de Aprendizado de Máquina.
+### 👩🏻‍💻 Sobre mim
+
+Sempre tive interesse pelo universo da Matemática e a curiosidade sobre Estatística me fez hoje ser graduanda de **Ciência de Dados** na UFMG. Sou Diretora de Gente e Gestão da empresa Pi Júnior. Tenho interesse em Probabilidade, e tenho me aprofundado em modelos de Aprendizado de Máquina.
 
 ##
 
